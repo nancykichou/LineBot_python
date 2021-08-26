@@ -1,0 +1,11 @@
+import os
+
+class Config:
+
+    CHANNEL_ACCESS_TOKEN = 'CFeKl9JrtQWVOouhmLn3wV+TmlSEnCzv/G7FdAsNQcR32eDb6qWbhuMHcHEMJ4TCLaiav/pXY8VF7VBPUvatb1ckwjdI37X0c/v+SbuED2/9K6hg08x/np3MxA8dqGm8txkcoNBIhssKiMXeVX78iwdB04t89/1O/w1cDnyilFU='
+    CHANNEL_SECRET = '25a7b3f18897c79658baa681816a95f6'
+    BASE_ID = '@701mvhdl'
+    LINE_PAY_ID = '1656223790'
+    LINE_PAY_SECRET = '272baa2ab6cf4eec98edf5e40f70e530'
+    STORE_IMAGE_URL = 'https://i.imgur.com/1TmnC5Y.png'
+    DEVELOPER_USER_ID = 'U66340eadf1566b38f668579a978b427a'
